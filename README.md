@@ -6,7 +6,7 @@ The repository contains the sampling and interval algorithms, detector integrati
 
 ## Citation and license
 
-Mohamed Kone, Gaoussou Haidara, Chao Hou, Shulin Wang. *Individual coverage of atrial fibrillation burden intervals from twenty sampled Holter minutes* (software version 1.0.0). The four creators are affiliated with the School of Computer Science and Engineering, Hunan University, Changsha, China. Machine-readable citation metadata are available in [CITATION.cff](CITATION.cff).
+Mohamed Kone, Gaoussou Haidara, Chao Hou, Shulin Wang. *Individual coverage of atrial fibrillation burden intervals from twenty sampled Holter minutes* (software version 1.0.0). The four creators are affiliated with the School of Computer Science and Engineering, Hunan University, Changsha, China. Zenodo archives this version under [doi:10.5281/zenodo.24408832](https://doi.org/10.5281/zenodo.24408832). Machine-readable citation metadata are available in [CITATION.cff](CITATION.cff).
 
 The original study code is available under the [MIT License](LICENSE). The ECG databases, annotations and ArNet2 model are distributed by their respective providers under the terms listed in [SOURCES.md](SOURCES.md).
 
