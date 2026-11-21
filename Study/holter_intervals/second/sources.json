@@ -1,0 +1,27 @@
+{
+  "repository": "https://github.com/aim-lab/AFtoolkit",
+  "rev": "aa48a24c34095c8749e977ec5ad8b1442717c81b",
+  "subdir": "detection/exported_model",
+  "files": {
+    "fingerprint.pb": {
+      "bytes": 57,
+      "sha256": "29c50d9c05bc15ffc4221181b71ba90ffe95205da5e905b27d173390fe39131c",
+      "git_blob": "b06000881ab1f7543b4ce482939d9dfd7a7c0300"
+    },
+    "saved_model.pb": {
+      "bytes": 3451402,
+      "sha256": "c567c82e8bb7987e76e8a521f3240b4abd813c1168a183965e3351091dd79067",
+      "git_blob": "1a1e117651ef113d3b6b7398ef44df9d06d3d5f6"
+    },
+    "variables/variables.data-00000-of-00001": {
+      "bytes": 6568056,
+      "sha256": "e52731a1613dc16a4a1aa21b13d028e0e15d69c5065e23144d44b69f23d8cf8a",
+      "git_blob": "83af0a8d8e25899031867a7e7e915b5b590de2f9"
+    },
+    "variables/variables.index": {
+      "bytes": 7776,
+      "sha256": "9a1d9d1c84c907f406a35e730ce8c850ca62bc5f4e9c9dbfe29a45fec3a5378e",
+      "git_blob": "17dc0bd9aedf50b91c6752cf9e093709a91aa38c"
+    }
+  }
+}

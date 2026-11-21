@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this analysis software, please cite this version using the metadata below.
+title: Individual coverage of atrial fibrillation burden intervals from twenty sampled Holter minutes
+type: software
+version: 1.0.0
+license: MIT
+authors:
+- given-names: Mohamed
+  family-names: Kone
+  affiliation: School of Computer Science and Engineering, Hunan University, Changsha, China
+- given-names: Gaoussou
+  family-names: Haidara
+  affiliation: School of Computer Science and Engineering, Hunan University, Changsha, China
+- given-names: Chao
+  family-names: Hou
+  affiliation: School of Computer Science and Engineering, Hunan University, Changsha, China
+- given-names: Shulin
+  family-names: Wang
+  affiliation: School of Computer Science and Engineering, Hunan University, Changsha, China
+abstract: Analysis software for estimating atrial fibrillation burden from twenty sampled Holter minutes
+  and assessing patient-level coverage of burden intervals.
+keywords:
+- atrial fibrillation burden
+- Holter monitoring
+- interval coverage
+- stratified sampling
+- external validation
